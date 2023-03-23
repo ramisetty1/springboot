@@ -2,7 +2,6 @@ pipeline {
     environment {
     imagename = "ramisetty32/springboot"
     DOCKERHUB_CREDENTIALS=credentials('dockerhub')
-   
   }
    agent any
    
