@@ -1,0 +1,407 @@
+%PDF-1.3
+1 0 obj
+<< /Type /Catalog
+/Outlines 2 0 R
+/Pages 3 0 R >>
+endobj
+2 0 obj
+<< /Type /Outlines /Count 0 >>
+endobj
+3 0 obj
+<< /Type /Pages
+/Kids [6 0 R
+12 0 R
+14 0 R
+16 0 R
+18 0 R
+]
+/Count 5
+/Resources <<
+/ProcSet 4 0 R
+/Font << 
+/F1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+>>
+/MediaBox [0.000 0.000 595.280 841.890]
+ >>
+endobj
+4 0 obj
+[/PDF /Text ]
+endobj
+5 0 obj
+<<
+/Creator (DOMPDF)
+/CreationDate (D:20220131085634+00'00')
+/ModDate (D:20220131085634+00'00')
+>>
+endobj
+6 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+/Length 4933 >>
+stream
+
+0.000 0.000 0.000 rg
+BT 34.016 780.491 Td /F1 14.0 Tf  [(Get the simple spring boot application)] TJ ET
+BT 34.016 745.108 Td /F3 18.0 Tf  [(Step-1)] TJ ET
+0.000 0.000 0.000 RG
+34.016 725.891 m 561.264 725.891 l 560.514 725.141 l 34.766 725.141 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 724.391 m 561.264 724.391 l 560.514 725.141 l 34.766 725.141 l  f
+561.264 725.891 m 561.264 724.391 l 560.514 725.141 l 560.514 725.141 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 725.891 m 34.016 724.391 l 34.766 725.141 l 34.766 725.141 l  f
+BT 34.016 698.946 Td /F2 12.0 Tf  [(Created EC2 instance called as a Jenkins server installed and configured Git, Java, Maven, Jenkins, Docker)] TJ ET
+BT 34.016 664.048 Td /F1 18.0 Tf  [(GIT INSTALLATION:)] TJ ET
+34.016 644.831 m 561.264 644.831 l 560.514 644.081 l 34.766 644.081 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 643.331 m 561.264 643.331 l 560.514 644.081 l 34.766 644.081 l  f
+561.264 644.831 m 561.264 643.331 l 560.514 644.081 l 560.514 644.081 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 644.831 m 34.016 643.331 l 34.766 644.081 l 34.766 644.081 l  f
+BT 34.016 619.331 Td /F4 12.0 Tf  [(sudo su -)] TJ ET
+BT 34.016 606.880 Td /F4 12.0 Tf  [(sudo apt-get install software-properties-common)] TJ ET
+BT 34.016 594.430 Td /F4 12.0 Tf  [(sudo add-apt-repository ppa:git-core/ppa -y)] TJ ET
+BT 34.016 581.980 Td /F4 12.0 Tf  [(sudo apt-get update)] TJ ET
+BT 34.016 569.530 Td /F4 12.0 Tf  [(sudo apt-get install git -y)] TJ ET
+BT 34.016 557.079 Td /F4 12.0 Tf  [(git --version)] TJ ET
+BT 34.016 522.542 Td /F1 18.0 Tf  [(JAVA INSTALLATION:)] TJ ET
+34.016 503.325 m 561.264 503.325 l 560.514 502.575 l 34.766 502.575 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 501.825 m 561.264 501.825 l 560.514 502.575 l 34.766 502.575 l  f
+561.264 503.325 m 561.264 501.825 l 560.514 502.575 l 560.514 502.575 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 503.325 m 34.016 501.825 l 34.766 502.575 l 34.766 502.575 l  f
+BT 34.016 477.825 Td /F4 12.0 Tf  [(sudo add-apt-repository ppa:openjdk-r/ppa)] TJ ET
+BT 34.016 465.375 Td /F4 12.0 Tf  [(sudo apt-get update)] TJ ET
+BT 34.016 452.925 Td /F4 12.0 Tf  [(sudo apt-get install -y openjdk-8-jdk)] TJ ET
+BT 34.016 418.387 Td /F1 18.0 Tf  [(MAVEN INSTALLATION:)] TJ ET
+34.016 399.171 m 561.264 399.171 l 560.514 398.421 l 34.766 398.421 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 397.671 m 561.264 397.671 l 560.514 398.421 l 34.766 398.421 l  f
+561.264 399.171 m 561.264 397.671 l 560.514 398.421 l 560.514 398.421 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 399.171 m 34.016 397.671 l 34.766 398.421 l 34.766 398.421 l  f
+BT 34.016 373.670 Td /F4 12.0 Tf  [(sudo apt update)] TJ ET
+BT 34.016 361.220 Td /F4 12.0 Tf  [(sudo apt install maven)] TJ ET
+BT 34.016 348.770 Td /F4 12.0 Tf  [(mvn -version)] TJ ET
+BT 34.016 314.233 Td /F1 18.0 Tf  [(JENKINS INSTALLATION:)] TJ ET
+34.016 295.016 m 561.264 295.016 l 560.514 294.266 l 34.766 294.266 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 293.516 m 561.264 293.516 l 560.514 294.266 l 34.766 294.266 l  f
+561.264 295.016 m 561.264 293.516 l 560.514 294.266 l 560.514 294.266 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 295.016 m 34.016 293.516 l 34.766 294.266 l 34.766 294.266 l  f
+BT 34.016 269.516 Td /F4 12.0 Tf  [(wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -)] TJ ET
+BT 34.016 257.065 Td /F4 12.0 Tf  [(echo deb https://pkg.jenkins.io/debian-stable binary/ | sudo tee /etc/apt/sources.list.d/jenkins.list)] TJ ET
+BT 34.016 244.615 Td /F4 12.0 Tf  [(sudo apt-get update)] TJ ET
+BT 34.016 232.165 Td /F4 12.0 Tf  [(sudo apt-get install jenkins)] TJ ET
+BT 34.016 197.628 Td /F1 18.0 Tf  [(DOCKER INSTALLATION:)] TJ ET
+34.016 178.411 m 561.264 178.411 l 560.514 177.661 l 34.766 177.661 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 176.911 m 561.264 176.911 l 560.514 177.661 l 34.766 177.661 l  f
+561.264 178.411 m 561.264 176.911 l 560.514 177.661 l 560.514 177.661 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 178.411 m 34.016 176.911 l 34.766 177.661 l 34.766 177.661 l  f
+BT 34.016 152.911 Td /F4 12.0 Tf  [(sudo apt-get remove docker docker-engine docker.io containerd runc)] TJ ET
+BT 34.016 140.460 Td /F4 12.0 Tf  [(sudo apt-get update)] TJ ET
+BT 34.016 128.010 Td /F4 12.0 Tf  [(sudo apt-get install -y apt-transport-https ca-certificates curl gnupg-agent software-properties-common)] TJ ET
+BT 34.016 115.560 Td /F4 12.0 Tf  [(sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -)] TJ ET
+BT 34.016 103.110 Td /F4 12.0 Tf  [(sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $\(lsb_release -cs\) stable")] TJ ET
+BT 34.016 90.659 Td /F4 12.0 Tf  [(sudo apt-get update)] TJ ET
+BT 34.016 78.209 Td /F4 12.0 Tf  [(sudo apt-get install -y docker-ce docker-ce-cli containerd.io)] TJ ET
+endstream
+endobj
+8 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-BoldItalic
+/Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 3330 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 34.016 775.827 Td /F3 18.0 Tf  [(Step-2)] TJ ET
+34.016 756.610 m 561.264 756.610 l 560.514 755.860 l 34.766 755.860 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 755.110 m 561.264 755.110 l 560.514 755.860 l 34.766 755.860 l  f
+561.264 756.610 m 561.264 755.110 l 560.514 755.860 l 560.514 755.860 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 756.610 m 34.016 755.110 l 34.766 755.860 l 34.766 755.860 l  f
+BT 34.016 729.665 Td /F2 12.0 Tf  [(## Configure Jenkins with Docker:)] TJ ET
+BT 34.016 701.369 Td /F2 12.0 Tf  [(by default Jenkins process runs with Jenkins User, which means any jenkins Jobs we run from jenkins )] TJ ET
+BT 34.016 687.113 Td /F2 12.0 Tf  [(console will be running jenkins user on Jenkins machine)] TJ ET
+BT 34.016 658.817 Td /F2 12.0 Tf  [(we need to configure Jenkins user can run the docker commands by adding jenkins user to docker group)] TJ ET
+BT 34.016 631.966 Td /F4 12.0 Tf  [(sudo usermod -aG docker jenkins)] TJ ET
+BT 34.016 604.031 Td /F2 12.0 Tf  [(restart the Jenkins Service)] TJ ET
+BT 34.016 577.180 Td /F4 12.0 Tf  [(sudo service jenkins restart)] TJ ET
+BT 34.016 549.245 Td /F2 12.0 Tf  [(validate, run docker command with jenkins)] TJ ET
+BT 34.016 522.394 Td /F4 12.0 Tf  [(su - jenkins  ## switch to jenkins user)] TJ ET
+BT 34.016 509.943 Td /F4 12.0 Tf  [(docker ps     ## to list any containers running)] TJ ET
+BT 34.016 497.493 Td /F4 12.0 Tf  [(docker pull nginx  ## pull a docker image)] TJ ET
+BT 34.016 469.558 Td /F2 12.0 Tf  [(if the above commands execute without any error then we configured jenkins user properly)] TJ ET
+BT 34.016 434.660 Td /F3 18.0 Tf  [(Step-3)] TJ ET
+34.016 415.443 m 561.264 415.443 l 560.514 414.693 l 34.766 414.693 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 413.943 m 561.264 413.943 l 560.514 414.693 l 34.766 414.693 l  f
+561.264 415.443 m 561.264 413.943 l 560.514 414.693 l 560.514 414.693 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 415.443 m 34.016 413.943 l 34.766 414.693 l 34.766 414.693 l  f
+BT 34.016 381.896 Td /F1 18.0 Tf  [(Login to Jenkins UI:)] TJ ET
+BT 34.016 352.719 Td /F4 12.0 Tf  [( `http://IP:8080` in browser)] TJ ET
+BT 34.016 340.269 Td /F4 12.0 Tf  [(enter `initialAdminPassword` the page to login \( cat /var/lib/jenkins/secrets/initialAdminPassword \))] TJ ET
+BT 34.016 327.818 Td /F4 12.0 Tf  [(click on `Install Suggested Plugins`)] TJ ET
+BT 34.016 315.368 Td /F4 12.0 Tf  [(continue next and finish the setup.)] TJ ET
+BT 34.016 280.831 Td /F1 18.0 Tf  [(Install reqired Plugins:)] TJ ET
+BT 34.016 250.209 Td /F2 12.0 Tf  [(Docker Pipeline)] TJ ET
+BT 34.016 221.913 Td /F2 12.0 Tf  [(cloudbees docker build and publish)] TJ ET
+BT 34.016 187.015 Td /F1 18.0 Tf  [(Added Credentials to Jenkins)] TJ ET
+BT 34.016 156.393 Td /F2 12.0 Tf  [(Github)] TJ ET
+BT 34.016 128.097 Td /F2 12.0 Tf  [(Dockerhub)] TJ ET
+BT 34.016 93.199 Td /F3 18.0 Tf  [(Configure JAVA - MAVEN - Git)] TJ ET
+34.016 73.982 m 561.264 73.982 l 560.514 73.232 l 34.766 73.232 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 72.482 m 561.264 72.482 l 560.514 73.232 l 34.766 73.232 l  f
+561.264 73.982 m 561.264 72.482 l 560.514 73.232 l 560.514 73.232 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 73.982 m 34.016 72.482 l 34.766 73.232 l 34.766 73.232 l  f
+endstream
+endobj
+14 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 15 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 3899 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 34.016 782.429 Td /F2 12.0 Tf  [(Java configuration in Jenkins console)] TJ ET
+BT 34.016 755.578 Td /F4 12.0 Tf  [(Manage Jenkins --> Global Tool Configuration --> JDK --> Add JDK)] TJ ET
+BT 34.016 743.128 Td /F4 12.0 Tf  [(    Name: myjava)] TJ ET
+BT 34.016 730.678 Td /F4 12.0 Tf  [(    JAVA_HOME: /usr/lib/jvm/java-8-openjdk-amd64)] TJ ET
+BT 34.016 702.743 Td /F2 12.0 Tf  [(Maven Configuration in Jenkins console)] TJ ET
+BT 34.016 675.891 Td /F4 12.0 Tf  [(Manage Jenkins --> Global Tool Configuration --> Maven --> Add Maven)] TJ ET
+BT 34.016 663.441 Td /F4 12.0 Tf  [(    Name: maven3.6)] TJ ET
+BT 34.016 650.991 Td /F4 12.0 Tf  [(    MAVEN_HOME: /opt/apache-maven-3.6.3)] TJ ET
+BT 34.016 623.056 Td /F2 12.0 Tf  [(Git Configuration in Jenkins console)] TJ ET
+BT 34.016 596.205 Td /F4 12.0 Tf  [(Manage Jenkins --> Global Tool Configuration --> Git --> Add Git)] TJ ET
+BT 34.016 583.754 Td /F4 12.0 Tf  [(    Name: git)] TJ ET
+BT 34.016 571.304 Td /F4 12.0 Tf  [(    MAVEN_HOME: /usr/bin/git)] TJ ET
+BT 34.016 536.767 Td /F3 18.0 Tf  [(Creating CICD Pipeline:)] TJ ET
+34.016 517.550 m 561.264 517.550 l 560.514 516.800 l 34.766 516.800 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 516.050 m 561.264 516.050 l 560.514 516.800 l 34.766 516.800 l  f
+561.264 517.550 m 561.264 516.050 l 560.514 516.800 l 560.514 516.800 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 517.550 m 34.016 516.050 l 34.766 516.800 l 34.766 516.800 l  f
+BT 48.816 490.610 Td /F2 12.0 Tf  [(1.)] TJ ET
+BT 64.016 478.605 Td /F2 12.0 Tf  [(Created new pipeline job and named as Buildimage)] TJ ET
+BT 48.816 452.354 Td /F2 12.0 Tf  [(2.)] TJ ET
+BT 64.016 440.349 Td /F2 12.0 Tf  [(Written Jenkinsfile and Docker file and pushed to github repository where i have the src code and )] TJ ET
+BT 64.016 426.093 Td /F2 12.0 Tf  [(pom.xml)] TJ ET
+BT 48.816 399.842 Td /F2 12.0 Tf  [(3.)] TJ ET
+BT 64.016 387.837 Td /F2 12.0 Tf  [(As soon as i pushed the code to github repository then jenkins job gets triggered which builds the )] TJ ET
+BT 64.016 373.581 Td /F2 12.0 Tf  [(docker container image and it saves the image in a Dockerhub registry. suppose if i changed a code )] TJ ET
+BT 64.016 359.325 Td /F2 12.0 Tf  [(then new docker container image will be created with new tag.)] TJ ET
+BT 48.816 333.074 Td /F2 12.0 Tf  [(4.)] TJ ET
+BT 64.016 321.069 Td /F2 12.0 Tf  [(In github i have another repository for kubernetes manifest files. the name of the repo is )] TJ ET
+BT 64.016 306.813 Td /F2 12.0 Tf  [(kubernetesmanifest. we have deployment yaml files in this repo. so, this deployment yaml file should )] TJ ET
+BT 64.016 292.557 Td /F2 12.0 Tf  [(reference this newly created container inage.)] TJ ET
+BT 48.816 266.306 Td /F2 12.0 Tf  [(5.)] TJ ET
+BT 64.016 254.301 Td /F2 12.0 Tf  [(when this jenkins job created docker container image after it will trigger another jenkins job update )] TJ ET
+BT 64.016 240.045 Td /F2 12.0 Tf  [(manifest,which will update the image in the deployment yaml file)] TJ ET
+BT 48.816 213.794 Td /F2 12.0 Tf  [(6.)] TJ ET
+BT 64.016 201.789 Td /F2 12.0 Tf  [(Now i used Argo CD as Gitops tool)] TJ ET
+BT 48.816 175.538 Td /F2 12.0 Tf  [(7.)] TJ ET
+BT 64.016 163.533 Td /F2 12.0 Tf  [(This gitops tool continously monitors this kubernets manifest repo and if the state in the kubernetes )] TJ ET
+BT 64.016 149.277 Td /F2 12.0 Tf  [(cluster deviates from the manifest files in the repo, gitops will grab those changes from the github )] TJ ET
+BT 64.016 135.021 Td /F2 12.0 Tf  [(repository and deploy to the kubernetes cluster)] TJ ET
+BT 48.816 108.770 Td /F2 12.0 Tf  [(8.)] TJ ET
+BT 64.016 96.765 Td /F2 12.0 Tf  [(The jenkins job that is building the container image and updating the manifest file is the continous )] TJ ET
+BT 64.016 82.509 Td /F2 12.0 Tf  [(integration process.)] TJ ET
+BT 48.816 56.258 Td /F2 12.0 Tf  [(9.)] TJ ET
+endstream
+endobj
+16 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 17 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 3269 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 64.016 784.469 Td /F2 12.0 Tf  [(The gitops that is deploying the deployment file into kubernetes cluster is the continous deployment )] TJ ET
+BT 64.016 770.213 Td /F2 12.0 Tf  [(process. this is the gitops flow i used for this exercise.)] TJ ET
+BT 34.016 723.315 Td /F1 18.0 Tf  [(Argo CD Installation:)] TJ ET
+34.016 704.098 m 561.264 704.098 l 560.514 703.348 l 34.766 703.348 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 702.598 m 561.264 702.598 l 560.514 703.348 l 34.766 703.348 l  f
+561.264 704.098 m 561.264 702.598 l 560.514 703.348 l 560.514 703.348 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 704.098 m 34.016 702.598 l 34.766 703.348 l 34.766 703.348 l  f
+BT 34.016 677.153 Td /F2 12.0 Tf  [(created eks cluster)] TJ ET
+BT 34.016 650.302 Td /F4 12.0 Tf  [(eksctl create cluster)] TJ ET
+BT 34.016 622.367 Td /F2 12.0 Tf  [(Install Argocd:)] TJ ET
+BT 34.016 595.516 Td /F4 12.0 Tf  [(kubectl create namespace argocd)] TJ ET
+BT 34.016 583.066 Td /F4 12.0 Tf  [(kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml)] TJ ET
+BT 34.016 555.131 Td /F2 12.0 Tf  [(Kubectl port-forwarding can also be used to connect to the API server without exposing the service. kubectl )] TJ ET
+BT 34.016 540.875 Td /F2 12.0 Tf  [(port-forward svc/argocd-server -n argocd 8080:443)] TJ ET
+BT 34.016 512.579 Td /F2 12.0 Tf  [(after that logged in Argo CD UI & set up Argo cd app)] TJ ET
+BT 34.016 484.283 Td /F2 12.0 Tf  [(By using loadbalcer DNS and port access from browser)] TJ ET
+BT 34.016 449.384 Td /F1 18.0 Tf  [(Prometheus as a Monitoring tool:)] TJ ET
+34.016 430.168 m 561.264 430.168 l 560.514 429.418 l 34.766 429.418 l  f
+0.160 0.160 0.160 rg
+0.160 0.160 0.160 RG
+34.016 428.668 m 561.264 428.668 l 560.514 429.418 l 34.766 429.418 l  f
+561.264 430.168 m 561.264 428.668 l 560.514 429.418 l 560.514 429.418 l  f
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+34.016 430.168 m 34.016 428.668 l 34.766 429.418 l 34.766 429.418 l  f
+BT 34.016 403.223 Td /F2 12.0 Tf  [(Its Monitor the kubernetes cluster and create the alerts\(cpu usage, memory usage\))] TJ ET
+BT 34.016 374.927 Td /F2 12.0 Tf  [(prometheus runs as a daeomon on every node in the cluster)] TJ ET
+BT 34.016 333.186 Td /F1 24.0 Tf  [(install prometheus:)] TJ ET
+BT 34.016 299.999 Td /F2 12.0 Tf  [(I used Helm for prometheus installation. already installed helm)] TJ ET
+BT 34.016 271.703 Td /F2 12.0 Tf  [(before install promentheus i have to install Metric sever)] TJ ET
+BT 34.016 243.407 Td /F2 12.0 Tf  [(Deploy the Metrics Server with the following command:)] TJ ET
+BT 34.016 216.555 Td /F4 12.0 Tf  [(kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml)] TJ ET
+BT 34.016 188.620 Td /F2 12.0 Tf  [(Verify that the metrics-server deployment is running the desired number of pods with the following )] TJ ET
+BT 34.016 174.364 Td /F2 12.0 Tf  [(command.)] TJ ET
+BT 34.016 147.513 Td /F4 12.0 Tf  [(kubectl get deployment metrics-server -n kube-system)] TJ ET
+BT 34.016 119.578 Td /F2 12.0 Tf  [(Deploying Prometheus: Create a Prometheus namespace.)] TJ ET
+BT 34.016 92.727 Td /F4 12.0 Tf  [(kubectl create namespace prometheus)] TJ ET
+endstream
+endobj
+18 0 obj
+<< /Type /Page
+/Parent 3 0 R
+/Contents 19 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 1287 >>
+stream
+
+0.000 0.000 0.000 rg
+0.000 0.000 0.000 RG
+BT 34.016 782.429 Td /F2 12.0 Tf  [(Add the prometheus-community chart repository.)] TJ ET
+BT 34.016 755.578 Td /F4 12.0 Tf  [(helm repo add prometheus-community https://prometheus-community.github.io/helm-charts)] TJ ET
+BT 34.016 727.643 Td /F2 12.0 Tf  [(Deploy Prometheus.)] TJ ET
+BT 34.016 700.792 Td /F4 12.0 Tf  [(helm upgrade -i prometheus prometheus-community/prometheus \\)] TJ ET
+BT 34.016 688.342 Td /F4 12.0 Tf  [(--namespace prometheus \\)] TJ ET
+BT 34.016 675.891 Td /F4 12.0 Tf  [(--set alertmanager.persistentVolume.storageClass="gp2",server.persistentVolume.storageClass="gp2")] TJ ET
+BT 34.016 647.956 Td /F2 12.0 Tf  [(Verify that all of the pods in the prometheus namespace are in the READY state)] TJ ET
+BT 34.016 621.105 Td /F4 12.0 Tf  [(kubectl get pods -n prometheus)] TJ ET
+BT 34.016 593.170 Td /F2 12.0 Tf  [(now we can see the control plane logs using Graph)] TJ ET
+BT 34.016 564.874 Td /F2 12.0 Tf  [(Use kubectl to port forward the Prometheus console to your local machine.)] TJ ET
+BT 34.016 538.023 Td /F4 12.0 Tf  [(kubectl --namespace=prometheus port-forward deploy/prometheus-server 9090)] TJ ET
+BT 34.016 510.088 Td /F2 12.0 Tf  [(now open this port in localhost then we should see prometheus console.)] TJ ET
+endstream
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000009 00000 n 
+0000000074 00000 n 
+0000000120 00000 n 
+0000000334 00000 n 
+0000000363 00000 n 
+0000000477 00000 n 
+0000000540 00000 n 
+0000005525 00000 n 
+0000005633 00000 n 
+0000005742 00000 n 
+0000005857 00000 n 
+0000005963 00000 n 
+0000006028 00000 n 
+0000009411 00000 n 
+0000009476 00000 n 
+0000013428 00000 n 
+0000013493 00000 n 
+0000016815 00000 n 
+0000016880 00000 n 
+trailer
+<<
+/Size 20
+/Root 1 0 R
+/Info 5 0 R
+>>
+startxref
+18220
+%%EOF
